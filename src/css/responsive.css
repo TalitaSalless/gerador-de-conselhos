@@ -1,0 +1,12 @@
+@media (max-width: 376px) {
+    #container-principal{
+        width: 300px;
+    }
+    #id-conselho{
+        font-size: 10px;
+    }
+    #descricao-conselho{
+        font-size: 18px;
+    }
+}
+

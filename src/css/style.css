@@ -1,0 +1,57 @@
+body{
+    background-color: hsl(218, 23%, 16%);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container-principal{
+    background-color: hsl(217, 19%, 24%);
+    height: 300px;
+    width: 500px;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    
+}
+#id-conselho{
+    font-size: 12px;
+    color: hsl(150, 100%, 66%);
+    letter-spacing: 0.2rem;
+    margin: 1rem 0 1rem 0;
+}
+#descricao-conselho{
+    color: hsl(193, 38%, 86%);
+    font-size: 26px;
+    text-align: center;
+    padding: 0 2rem;
+    margin-bottom: 2rem;
+}
+#divisor-de-tela{
+    margin-bottom: 2rem;
+    width: 83%;
+}
+#botao{
+    background-color: hsl(150, 100%, 66%);
+    border-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 55px;
+    height: 55px;
+    border-radius: 100%;
+    margin-bottom: -4rem;
+    cursor: pointer;
+}
+#botao:hover{
+    box-shadow: 0px 0px 20px 0px hsl(150, 100%, 66%);
+    transition: all 0.5s;
+}
+#imagem-botao{
+    width: 22px;
+}
