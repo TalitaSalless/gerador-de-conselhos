@@ -48,4 +48,4 @@ Sinta-se à vontade para contribuir para este projeto. Você pode reportar probl
 4. Envie um pull request.
 
 ## Créditos
-Este projeto foi desenvolvido por @frontendmentor. 
+Este projeto foi desenvolvido pelo site @frontendmentor para aprendizado. 
