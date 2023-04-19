@@ -2,7 +2,7 @@
 
 Este é um aplicativo simples que gera conselhos aleatórios para ajudar você em várias situações da vida.
 
-O aplicativo foi desenvolvido usando a linguagem de programação JavaScript e o framework Vue.js. Ele usa a API Advice Slip para buscar conselhos aleatórios e exibi-los na tela.
+O aplicativo foi desenvolvido usando a linguagem de programação JavaScript. Ele usa a API Advice Slip para buscar conselhos aleatórios e exibi-los na tela.
 
 ## Funcionalidades
 
